@@ -6,6 +6,8 @@ from dotenv import load_dotenv
 import os
 import time
 
+# How to set up selenium(python) and Firefox Webdriver on Ubuntu 18.04
+# https://www.youtube.com/watch?v=xgsFwaw9W4Q
 
 chrome_options = Options()
 chrome_options.add_argument('--no-sandbox')
